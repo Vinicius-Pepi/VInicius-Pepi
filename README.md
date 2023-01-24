@@ -36,7 +36,7 @@
   <img align="center" src="https://img.shields.io/badge/-ViniciusPepi-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 
-<a href="https://linkedin.com/in/ViniciusPepi" target="_blank">
+<a href="https://linkedin.com/in/vinicius-pepi" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusPepi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
