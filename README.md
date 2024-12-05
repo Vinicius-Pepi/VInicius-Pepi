@@ -2,15 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinicius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinicius-Pepi&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Starting a career in web development.
+- 🔥 Starting my career.
 
-- 🕵️‍♀️ I’m looking for my first job in programming.
-
-- 📚 Studying **HTML, CSS, JS, SQL, Python**
+- 📚 Studying **Data Analytic, SQL and Python**
 
 - 💪 Healthy Lifestyle
-
-- 😁 I like to read and play in my **spare time** (FNAF lore is the best)
 
 
 
