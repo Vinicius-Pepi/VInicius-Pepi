@@ -9,8 +9,3 @@
 <a href="https://linkedin.com/in/vinicius-pepi" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusPepi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-<a href="https://instagram.com/Vinicius_Pepi" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ViniciusPepi-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
