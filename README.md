@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Vinícius! 👋
 
 🎯 **Objetivo**: Atualmente estou em transição para a área de **desenvolvimento de software** e **automação de processos**. Com um background em **infraestrutura de TI**, estou aprofundando meus conhecimentos em **Python** e **RPA** para criar soluções eficientes e escaláveis.
 
