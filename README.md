@@ -2,7 +2,7 @@
 
 🎯 **Objetivo**: Atualmente estou em transição para a área de **desenvolvimento de software** e **automação de processos**. Com um background em **infraestrutura de TI**, estou aprofundando meus conhecimentos em **Python** e **RPA** para criar soluções eficientes e escaláveis.
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide=prs&count_private=true)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vinicius-pepi&show_icons=true&theme=radical&hide=prs&count_private=true)
 
 🚀 **Sobre Mim**:
 - Sou apaixonado por **tecnologia**, e acredito no impacto que a **programação** pode ter na otimização de processos empresariais.
