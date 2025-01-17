@@ -23,7 +23,7 @@ Atualmente, estou me aprofundando em **automação de processos** e desenvolvend
 
 ## 📬 Vamos Conectar!
 
-- **LinkedIn**: [seu-linkedin]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/vinicius-pepi/))
+- **LinkedIn**: https://www.linkedin.com/in/vinicius-pepi/
 - **E-mail**: vinicius.pepi@outlook.com
 
 ---
