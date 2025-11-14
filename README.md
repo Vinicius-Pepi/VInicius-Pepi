@@ -2,8 +2,6 @@
 
 🎯 **Objetivo**: Atualmente estou em transição para a área de **desenvolvimento de software** e **automação de processos**. Com um background em **infraestrutura de TI**, estou aprofundando meus conhecimentos em **Python** e **RPA** para criar soluções eficientes e escaláveis.
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vinicius-pepi&show_icons=true&theme=dark&hide=prs&count_private=true)
-
 ## 💻 Tecnologias & Ferramentas
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
